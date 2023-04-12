@@ -9,4 +9,9 @@ public class class_all {
     void method_master() {
 
     }
+
+
+    void method_frial() {
+
+    }
 }
