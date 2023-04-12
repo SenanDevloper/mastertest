@@ -1,5 +1,7 @@
 package com.sp.master;
 
+import android.util.Log;
+
 public class class_all {
     void method_senan_tech() {
 
@@ -21,6 +23,7 @@ public class class_all {
     }
 
     void senananan() {
+        Log.e("senan=", "senan");
 
     }
 }
