@@ -14,4 +14,9 @@ public class class_all {
     void method_frial() {
 
     }
+
+
+    void friiiial() {
+
+    }
 }
