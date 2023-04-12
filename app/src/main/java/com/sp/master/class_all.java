@@ -19,4 +19,8 @@ public class class_all {
     void friiiial() {
 
     }
+
+    void senananan() {
+
+    }
 }
